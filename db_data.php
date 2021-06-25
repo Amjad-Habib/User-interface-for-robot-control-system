@@ -57,7 +57,4 @@ echo "<br>";
 echo "Off =  ".$print_data3[1];
 
 
-
-
-
 ?>
