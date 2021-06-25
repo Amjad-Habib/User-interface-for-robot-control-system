@@ -55,8 +55,7 @@ echo"<br>";
 echo "On =  ".$print_data2[1];
 echo "<br>";
 echo "Off =  ".$print_data3[1];
-echo "<br>";
-echo "<br>";
+
 
 
 
