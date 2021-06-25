@@ -1,6 +1,7 @@
 # User-interface-for-robot-control-system
  
- ### This repository is about creating a Robot control interface through motors. Here is a list of the files I created with a simplified explanation:
+ This repository is about creating a Robot control interface through motors. 
+ ### Here is a list of the files I created with a simplified explanation:
 
 **1-index.html**
 
